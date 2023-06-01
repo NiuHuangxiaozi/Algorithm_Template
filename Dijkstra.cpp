@@ -80,3 +80,5 @@ public:
         return ans == inf ? -1 : ans;
     }
 };
+
+// 本代码参考了leetcode 743. 网络延迟时间 
